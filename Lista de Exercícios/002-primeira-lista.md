@@ -22,8 +22,8 @@
 
 - **Exercício 7:** Você está criando um sistema que irá calcular quanto um cinema recebe por sessão do filme que está em cartaz "As tranças do Rei Careca". Você deve solicitar que seja informado qual a capacidade de assentos de uma sala do cinema, o valor do Ingresso Inteiro, o valor do Meio-Ingresso, quantas vendas foram realizadas daquela sessão e das vendas realizadas quantas foram Inteiros e quantas foram Meio-Ingresso.
     -  Você deve exibir:
-        - Qual a porcentagem de assentos vendidas.
-        - Qual a porcentagem de assentos vendidas como Ingresso Inteiro.
-        - Qual a porcentagem de assentos vendidas como Meio-Ingresso.
+        - Qual a porcentagem de assentos vendidos.
+        - Qual a porcentagem de assentos vendidos como Ingresso Inteiro.
+        - Qual a porcentagem de assentos vendidos como Meio-Ingresso.
         - Exibir qual o total de vendas por tipo de ingresso.
         - Exibir o total da receita por sessão do filme.
