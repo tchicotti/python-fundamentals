@@ -125,3 +125,14 @@
 # lista[1] = 2
 # dados_cliente["numero_filhos"] = 2
 # print(dados_cliente)
+
+# nome = input("Qual o seu nome? ")
+# salario = float(input("Qual o seu salario? "))
+# print(type(nome))
+# print(type(salario))
+
+# salario = int(salario)
+# print(type(salario))
+
+# salario = float(salario)
+# print(type(salario))
